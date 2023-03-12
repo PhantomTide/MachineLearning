@@ -6,3 +6,4 @@ archive
 __pyache__/
 dist/
 ~$*
+data/local
